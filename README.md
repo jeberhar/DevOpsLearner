@@ -4,7 +4,7 @@
   * Python code to create backups of EC2 instances with the appropriate tags, called by an AWS Lambda function
 
 * AWS-Lambda-EC2AmiCleanup.py
-  *Python code to delete backups of EC2 instances based on values delineated in the EC2 tags, called by an AWS Lambda function
+  * Python code to delete backups of EC2 instances based on values delineated in the EC2 tags, called by an AWS Lambda function
 
 * HangfireMonitor.ps1
   * Monitoring code for remote monitoring of Hangfire job scheduler
